@@ -24,7 +24,7 @@ O **PersonManager API** é uma solução completa e profissional para gerenciame
 ![Fluxo de Autenticação](Images/3.Diagrama_de_Sequência_Fluxo_de_Autenticação.png)
 
 ### 👥 Diagrama de Sequência - CRUD de Pessoa
-![CRUD de Pessoa](Images/4.Diagrama_de_Sequência_CRUD_de_Pessoa.png)
+![CRUD de Pessoa](Images/4.diagrama_de_sequencia_crud_de_pessoa.png)
 
 ### 🔄 Diagrama de Componentes - Estrutura do Projeto
 ![Componentes](Images/5.Diagrama_de_Componentes_Estrutura_do_Projeto.png)
@@ -42,10 +42,10 @@ O **PersonManager API** é uma solução completa e profissional para gerenciame
 ![Migração EF](Images/Diagrama_de_Migração_Entity_Framework.png)
 
 ### 📋 MER - Modelo Entidade-Relacionamento Conceitual
-![MER](Images/MER_Modelo_Entidade_Relacionamento_Conceitual.png)
+![MER](Images/mer_modelo_entidade_relacionamento_conceitual.png)
 
 ### 🧱 Diagrama Físico do Banco - SQL Server
-![Diagrama Físico](Images/Diagrama_Físico_do_Banco_-_SQL_Server.png)
+![Diagrama Físico](Images/diagrama_fisico_do_banco_sql_server.png)
 
 
 ### Estrutura em Camadas
