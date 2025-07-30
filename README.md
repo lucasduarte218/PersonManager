@@ -47,6 +47,14 @@ O **PersonManager API** é uma solução completa e profissional para gerenciame
 ### 🧱 Diagrama Físico do Banco - SQL Server
 ![Diagrama Físico](Images/diagrama_fisico_do_banco_sql_server.png)
 
+### ❗ Exception Logs
+Exibe os registros de exceções persistidos diretamente no banco de dados via SQL Server.
+![Exception Logs](Images/ExceptionLogs.png)
+
+### 🔄 Request/Response Logs
+Mostra as requisições e respostas capturadas para auditoria e debugging.
+![Request/Response Logs](Images/RequestResponseLogs.png)
+
 
 ### Estrutura em Camadas
 
