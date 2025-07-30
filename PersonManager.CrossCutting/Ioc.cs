@@ -30,6 +30,10 @@ public static class Ioc
         services.AddScoped<IRequestResponseLogRepository, RequestResponseLogRepository>();
         services.AddScoped<IExceptionLogRepository, ExceptionLogRepository>();
 
+        // DbContext com SQL Server
+        services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+
         return services;
     }
 }

@@ -57,7 +57,7 @@ public class PersonController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = response.Id }, response);
     }
 
-    [HttpPut("{id:guid}")]
+    [HttpPut("{id:long}")]
     public async Task<IActionResult> Update(long id, [FromBody] UpdatePersonRequestModel model)
     {
         if (id != model.Id)
@@ -88,7 +88,7 @@ public class PersonController : ControllerBase
         return Ok(response);
     }
 
-    [HttpDelete("{id:guid}")]
+    [HttpDelete("{id:long}")]
     public async Task<IActionResult> Delete(long id)
     {
         var result = await _deletePersonUseCase.ExecuteAsync(id);
@@ -98,7 +98,7 @@ public class PersonController : ControllerBase
         return NoContent();
     }
 
-    [HttpGet("{id:guid}")]
+    [HttpGet("{id:long}")]
     public async Task<IActionResult> GetById(long id)
     {
         Result<Person> result = await _getPersonByIdUseCase.ExecuteAsync(id);
