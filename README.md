@@ -11,7 +11,42 @@ O **PersonManager API** é uma solução completa e profissional para gerenciame
 
 ---
 
-## 🏗️ Arquitetura Clean Architecture
+### 🏗️ Arquitetura Limpa
+## 📊 Diagramas Arquiteturais
+
+### 🏗️ Arquitetura Limpa
+![Arquitetura Limpa](Images/1.Arquitetura_Limpa.png)
+
+### 📚 Diagrama de Classes
+![Diagrama de Classes](Images/2.Diagrama_de_classes.png)
+
+### 🔐 Diagrama de Sequência - Fluxo de Autenticação
+![Fluxo de Autenticação](Images/3.Diagrama_de_Sequência_Fluxo_de_Autenticação.png)
+
+### 👥 Diagrama de Sequência - CRUD de Pessoa
+![CRUD de Pessoa](Images/4.diagrama_de_sequencia_crud_de_pessoa.png)
+
+### 🔄 Diagrama de Componentes - Estrutura do Projeto
+![Componentes](Images/5.Diagrama_de_Componentes_Estrutura_do_Projeto.png)
+
+### 🚀 Diagrama de Implantação
+![Implantação](Images/6.Diagrama_de_Implantação.png)
+
+### ⚙️ Pipeline de Middleware
+![Middleware Pipeline](Images/7.Diagrama_de_Middleware_Pipeline.png)
+
+### 🗄️ DER - Diagrama de Entidade-Relacionamento
+![DER](Images/DER_Diagrama_de_Entidade_Relacionamento.png)
+
+### 🧬 Diagrama de Migração Entity Framework
+![Migração EF](Images/Diagrama_de_Migração_Entity_Framework.png)
+
+### 📋 MER - Modelo Entidade-Relacionamento Conceitual
+![MER](Images/mer_modelo_entidade_relacionamento_conceitual.png)
+
+### 🧱 Diagrama Físico do Banco - SQL Server
+![Diagrama Físico](Images/diagrama_fisico_do_banco_sql_server.png)
+
 
 ### Estrutura em Camadas
 
