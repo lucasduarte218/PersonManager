@@ -2,6 +2,7 @@
 
 > **Uma API REST robusta, escalável e moderna construída com .NET 8, seguindo as melhores práticas de Clean Architecture e padrões de desenvolvimento enterprise.**
 
+Acesse agora mesmo em NUVEM em :  https://www.PersonManager.somee.com
 ---
 
 ## 📋 Visão Geral
