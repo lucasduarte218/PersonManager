@@ -11,42 +11,42 @@ O **PersonManager API** é uma solução completa e profissional para gerenciame
 
 ---
 
-## 🏗️ Arquitetura Clean Architecture
-
+### 🏗️ Arquitetura Limpa
 ## 📊 Diagramas Arquiteturais
 
 ### 🏗️ Arquitetura Limpa
-![Arquitetura Limpa](PersonManager/Images/1.Arquitetura_Limpa.png)
+![Arquitetura Limpa](Images/1.Arquitetura_Limpa.png)
 
 ### 📚 Diagrama de Classes
-![Diagrama de Classes](PersonManager/Images/2.Diagrama_de_classes.png)
+![Diagrama de Classes](Images/2.Diagrama_de_classes.png)
 
 ### 🔐 Diagrama de Sequência - Fluxo de Autenticação
-![Fluxo de Autenticação](PersonManager/Images/3.Diagrama_de_Sequência_Fluxo_de_Autenticação.png)
+![Fluxo de Autenticação](Images/3.Diagrama_de_Sequência_Fluxo_de_Autenticação.png)
 
 ### 👥 Diagrama de Sequência - CRUD de Pessoa
-![CRUD de Pessoa](PersonManager/Images/4.Diagrama_de_Sequência_CRUD_de_Pessoa.png)
+![CRUD de Pessoa](Images/4.Diagrama_de_Sequência_CRUD_de_Pessoa.png)
 
 ### 🔄 Diagrama de Componentes - Estrutura do Projeto
-![Componentes](PersonManager/Images/5.Diagrama_de_Componentes_Estrutura_do_Projeto.png)
+![Componentes](Images/5.Diagrama_de_Componentes_Estrutura_do_Projeto.png)
 
 ### 🚀 Diagrama de Implantação
-![Implantação](PersonManager/Images/6.Diagrama_de_Implantação.png)
+![Implantação](Images/6.Diagrama_de_Implantação.png)
 
 ### ⚙️ Pipeline de Middleware
-![Middleware Pipeline](PersonManager/Images/7.Diagrama_de_Middleware_Pipeline.png)
+![Middleware Pipeline](Images/7.Diagrama_de_Middleware_Pipeline.png)
 
 ### 🗄️ DER - Diagrama de Entidade-Relacionamento
-![DER](PersonManager/Images/DER_Diagrama_de_Entidade_Relacionamento.png)
+![DER](Images/DER_Diagrama_de_Entidade_Relacionamento.png)
 
 ### 🧬 Diagrama de Migração Entity Framework
-![Migração EF](PersonManager/Images/Diagrama_de_Migração_Entity_Framework.png)
+![Migração EF](Images/Diagrama_de_Migração_Entity_Framework.png)
 
 ### 📋 MER - Modelo Entidade-Relacionamento Conceitual
-![MER](PersonManager/Images/MER_Modelo_Entidade_Relacionamento_Conceitual.png)
+![MER](Images/MER_Modelo_Entidade_Relacionamento_Conceitual.png)
 
 ### 🧱 Diagrama Físico do Banco - SQL Server
-![Diagrama Físico](PersonManager/Images/Diagrama_Físico_do_Banco_-_SQL_Server.png)
+![Diagrama Físico](Images/Diagrama_Físico_do_Banco_-_SQL_Server.png)
+
 
 ### Estrutura em Camadas
 
